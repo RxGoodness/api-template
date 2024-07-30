@@ -1,10 +1,10 @@
 {
   "name": "api-template",
   "version": "1.0.0",
-  "description": "Mainstack Auth Microservice",
+  "description": "rxgoodness Auth Microservice",
   "main": "server.js",
-  "repository": "https://github.com/The-Mainstack/auth-api",
-  "author": "Micah Elijah",
+  "repository": "https://github.com/RxGoodness/api-template.git",
+  "author": "Toheeb Adedokun",
   "license": "MIT",
   "private": true,
   "devDependencies": {
